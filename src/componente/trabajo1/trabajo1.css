@@ -1,0 +1,38 @@
+
+.unapaginas{
+	display: inline-flex;
+	margin-left: 55px;
+	margin-top: 5px;
+}
+
+#servicios{
+	padding-left: 15px;
+}
+.dospagina{
+	display: inline-flex;
+	margin-left: 2px;
+	margin-top: 5px;
+}
+
+#contacto{
+	padding-left: 15px;
+}
+#quienessomos{
+	padding-left: 15px;
+
+}
+
+button{
+	width: 150px;
+	height: 20px;
+	border-radius: 10px;
+	background-color: #00FCA1;
+}
+button i{
+	padding-right: 5px;
+}
+
+#volver{
+	color: #000000;
+	font-weight: bold;
+}

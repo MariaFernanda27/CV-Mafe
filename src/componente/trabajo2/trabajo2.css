@@ -1,0 +1,30 @@
+#principal{
+	margin-left: 70px;
+	margin-top: 5px;
+}
+#cuadrado{
+	padding-left: 15px;
+}
+#triangulo{
+	padding-left: 15px;
+}
+.segundaparte{
+	margin-left:  55px;
+}
+.primeraparte{
+	margin-left:  55px;
+}
+button{
+	width: 150px;
+	height: 20px;
+	border-radius: 10px;
+	background-color: #00FCA1;
+}
+button i{
+	padding-right: 5px;
+}
+
+#volver{
+	color: #000000;
+	font-weight: bold;
+}

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Port+Lligat+Slab&display=swap');
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+h1{
+	color: #000000;
+	font-family: 'Port Lligat Slab', serif;
+}
+ body{
+ 	margin: 0 auto;
+ 	font-family: 'Port Lligat Slab', serif;
+ }
+
+.container{
+	max-width: 800px;
+	margin: 0 auto;
+	background-image: url(./componente/fondo6.jpg);
+	
+	
+}
+
+h2{
+	
+	font-family: 'Port Lligat Slab', serif;
+}
+hr{
+	border-bottom: 4px solid #274257;
+	width: 50%;
+	margin: 0 auto;
+	font-family: 'Port Lligat Slab', serif;
+}
+p{
+	font-family: 'Port Lligat Slab', serif;
+}
+h3{
+	font-family: 'Port Lligat Slab', serif;
+}
